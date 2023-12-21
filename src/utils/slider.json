@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Tucson, Arizona",
+    "price": "247,043",
+    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "image": "./house1.jpg"
+  },
+  {
+    "name": "Sun City, Phoenix",
+    "price": "266,353",
+    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "image": "./house2.jpg"
+  },
+  {
+    "name": "Scottsdale, Arizona",
+    "price": "235,853",
+    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "image": "./house3.jpg"
+  },
+  {
+    "name": "Long Island, New York",
+    "price": "247,043",
+    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "image": "./house4.jpg"
+  },
+  {
+    "name": "Seattle, Washington",
+    "price": "266,353",
+    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "image": "./house5.png"
+  },
+  {
+    "name": "Long Beach, California",
+    "price": "335,853",
+    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "image": "./house6.jpg"
+  },
+  {
+    "name": "Tucson, Arizona",
+    "price": "247,043",
+    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "image": "./house1.jpg"
+  },
+  {
+    "name": "Sun City, Phoenix",
+    "price": "266,353",
+    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "image": "./house2.jpg"
+  },
+  {
+    "name": "Scottsdale, Arizona",
+    "price": "235,853",
+    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "image": "./house3.jpg"
+  },
+  {
+    "name": "Long Island, New York",
+    "price": "247,043",
+    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "image": "./house4.jpg"
+  },
+  {
+    "name": "Seattle, Washington",
+    "price": "266,353",
+    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "image": "./house5.png"
+  },
+  {
+    "name": "Long Beach, California",
+    "price": "335,853",
+    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "image": "./house6.jpg"
+  }
+]
