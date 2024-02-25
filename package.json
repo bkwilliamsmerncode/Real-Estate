@@ -2,14 +2,15 @@
   "name": "realestate",
   "private": true,
   "version": "0.0.0",
+   "homepage": "https://bkwilliamsmerncode.github.io/Real-Estate",
   "type": "module",
-  "homepage": "https://bkwilliamsmerncode.github.io/Real-Estate",
+ 
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build" 
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d dist"
   },
   "dependencies": {
     "framer-motion": "^10.8.5",
