@@ -5,19 +5,19 @@ const data = [
     icon: <HiShieldCheck/>,
     heading: "Best interest rates on the market",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "Explore our real estate financing options with some of the best interest rates on the market, providing you competitive and attractive rates for your home purchase or investment.",
   },
   {
     icon: <MdCancel />,
     heading: "Prevent unstable prices",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "Secure your investment and prevent unstable prices with our real estate solutions, offering stability and reliable market insights for a secure property transaction experience.",
   },
   {
     icon: <MdAnalytics />,
     heading: "Best price on the market",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "Discover unbeatable value with our real estate offerings, ensuring you the best price on the market for your dream property or investment.",
   },
 ];
 export default data;

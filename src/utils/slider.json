@@ -1,74 +1,74 @@
 [
   {
-    "name": "Tucson, Arizona",
+    "name": "Tucson, AZ.",
     "price": "247,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "detail": "3401 W Evening Star Ct, Pima County, AZ 85741",
     "image": "./house1.jpg"
   },
   {
-    "name": "Sun City, Phoenix",
+    "name": "Sun City, AZ.",
     "price": "266,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "detail": "10207 W Palmer Dr, Sun City, AZ 85351",
     "image": "./house2.jpg"
   },
   {
-    "name": "Scottsdale, Arizona",
+    "name": "Scottsdale, AZ.",
     "price": "235,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "detail": "19777 N 76th St APT 2245, Scottsdale, AZ 85255",
     "image": "./house3.jpg"
   },
   {
-    "name": "Long Island, New York",
+    "name": "Long Island, NY.",
     "price": "247,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "detail": "38-19 27th St #2, Long Island City, NY 11101",
     "image": "./house4.jpg"
   },
   {
-    "name": "Seattle, Washington",
+    "name": "Seattle, WA.",
     "price": "266,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "detail": "2115 E Pine Street, Seattle, WA 98122",
     "image": "./house5.png"
   },
   {
-    "name": "Long Beach, California",
+    "name": "Long Beach, CA.",
     "price": "335,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "detail": "2185 Elm Ave, Long Beach, CA 90806",
     "image": "./house6.jpg"
   },
   {
-    "name": "Tucson, Arizona",
+    "name": "Tucson, AZ.",
     "price": "247,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "detail": "3401 W Evening Star Ct, Pima County, AZ 85741",
     "image": "./house1.jpg"
   },
   {
-    "name": "Sun City, Phoenix",
+    "name": "Sun City, AZ.",
     "price": "266,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "detail": "10207 W Palmer Dr, Sun City, AZ 85351",
     "image": "./house2.jpg"
   },
   {
-    "name": "Scottsdale, Arizona",
+    "name": "Scottsdale, AZ.",
     "price": "235,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "detail": "19777 N 76th St APT 2245, Scottsdale, AZ 85255",
     "image": "./house3.jpg"
   },
   {
-    "name": "Long Island, New York",
+    "name": "Long Island, NY.",
     "price": "247,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "detail": "38-19 27th St #2, Long Island City, NY 11101",
     "image": "./house4.jpg"
   },
   {
-    "name": "Seattle, Washington",
+    "name": "Seattle, WA.",
     "price": "266,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "detail": "2115 E Pine Street, Seattle, WA 98122",
     "image": "./house5.png"
   },
   {
-    "name": "Long Beach, California",
+    "name": "Long Beach, CA.",
     "price": "335,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "detail": "2185 Elm Ave, Long Beach, CA 90806",
     "image": "./house6.jpg"
   }
 ]
